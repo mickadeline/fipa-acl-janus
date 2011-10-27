@@ -1,0 +1,26 @@
+Liens utiles :
+--------------
+
+# FIPA ACL :
+
+	* http://badr-benmammar.com/IA3.pdf
+
+# ACL avec Jade :
+
+	* http://www.emse.fr/~boissier/enseignement/maop/courses/jade-prog-4pp.pdf
+
+
+Specs :
+-------
+
+# FIP ACL :
+
+	* http://www.fipa.org/specs/fipa00061/SC00061G.html
+	* http://www.fipa.org/specs/fipa00067/SC00067F.html
+	* http://www.fipa.org/specs/fipa00069/SC00069G.html
+	* http://www.fipa.org/specs/fipa00070/SC00070I.html
+	* http://www.fipa.org/specs/fipa00071/SC00071E.html
+	
+# Protocoles :
+
+	* http://www.fipa.org/specs/fipa00029/SC00029H.html (CNP)
