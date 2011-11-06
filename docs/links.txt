@@ -4,11 +4,16 @@ Liens utiles :
 # FIPA ACL :
 
 	* http://badr-benmammar.com/IA3.pdf
+	* http://jmvidal.cse.sc.edu/talks/agentcommunication/index.xml?style=White
 
 # ACL avec Jade :
 
 	* http://www.emse.fr/~boissier/enseignement/maop/courses/jade-prog-4pp.pdf
+	* http://www.iro.umontreal.ca/~vaucher/Agents/Jade/primer4.html
+	
+# Ontologies avec Jade :
 
+	* http://www.iro.umontreal.ca/~vaucher/Agents/Jade/Ontologies.htm
 
 Specs :
 -------
