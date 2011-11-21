@@ -1,1 +1,6 @@
 .DS_Store
+.metadata/
+fipa-acl/.settings/org.eclipse.jdt.core.prefs
+fipa-acl/.classpath
+fipa-acl/.project
+fipa-acl/bin/
