@@ -1,11 +1,10 @@
 package org.janus.acl;
 
-import org.janusproject.kernel.message.ByteMessage;
+import org.janusproject.kernel.message.ObjectMessage;
 
-public class ACLTransportMessage extends ByteMessage
+public class ACLTransportMessage extends ObjectMessage
 {
-	public ACLTransportMessage(byte o) {
-		super(o);
-		// TODO Auto-generated constructor stub
+	public ACLTransportMessage(byte[] payload) {
+		super(payload);
 	}
 }
